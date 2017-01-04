@@ -1,4 +1,4 @@
-package br.com.danilopereira.application.classic;
+package br.com.danilopereira.application.filter;
 
 import java.util.ArrayList;
 import java.util.List;
